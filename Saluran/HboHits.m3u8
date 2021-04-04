@@ -7,3 +7,5 @@
 https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/4.m3u8?HBO
 #EXT-X-STREAM-INF:BANDWIDTH=1964424,AVERAGE-BANDWIDTH=1964424,CODECS="avc1.64001e,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=960x540,AUDIO="audiod",SUBTITLES="subs"
 https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/3.m3u8?HBO
+#EXT-X-STREAM-INF:BANDWIDTH=1147048,AVERAGE-BANDWIDTH=1147048,CODECS="avc1.64001e,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=640x360,AUDIO="audiod",SUBTITLES="subs"
+https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/2.m3u8?HBO
