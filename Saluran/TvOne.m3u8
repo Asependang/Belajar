@@ -3,9 +3,6 @@
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-VERSION:3
 #EXT-X-MEDIA-SEQUENCE:1
-#EXT-X-PLAYLIST-TYPE:m3u8
-#EXTINF:10.004811,
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162507
 #EXTINF:10.004811,
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162507
 #EXTINF:10.004811,
