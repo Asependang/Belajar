@@ -1,6 +1,10 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:10
 #EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:1
+#EXT-X-TARGETDURATION:3
+#EXT-X-MEDIA-SEQUENCE:37090
+#EXTINF:10.004811,
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165095
+#EXTINF:10.004811,
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165095
 #EXTINF:10.004811,
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165095
