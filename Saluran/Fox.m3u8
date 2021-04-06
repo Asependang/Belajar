@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:11
-#EXT-X-MEDIA-SEQUENCE:1
+#EXT-X-TARGETDURATION:3
+#EXT-X-MEDIA-SEQUENCE:37090
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXTINF:1.134467,
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165080
@@ -10,6 +10,4 @@ http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165080
 #EXTINF:1.167833,
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165080
 #EXTINF:0.900900,
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165080
-#EXTINF:0.533867,
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165080
