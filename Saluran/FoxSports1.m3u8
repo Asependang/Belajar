@@ -3,5 +3,5 @@
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXTINF:10.004811,
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162517
-#EXT-X-STREAM-INF:BANDWIDTH=1344100,RESOLUTION=1280x720
+#EXTINF:10.004811,
 http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
