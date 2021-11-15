@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:YA
+#EXT-X-TARGETDURATION:4
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXTINF:1.134467,
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/266.ts
+#EXTINF:1.368033,
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/266.ts
+#EXTINF:1.167833,
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/266.ts
+#EXTINF:0,900900,
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/266.ts
