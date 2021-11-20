@@ -5,4 +5,4 @@
 #EXT-X-MEDIA-SEQUENCE:1
 #EXT-X-PLAYLIST-TYPE:m3u8
 #EXTINF:10.004811,
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/180
+https://sneh-z5api.herokuapp.com/?c=0-9-privéhd
