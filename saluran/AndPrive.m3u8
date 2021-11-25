@@ -5,4 +5,4 @@
 #EXT-X-MEDIA-SEQUENCE:1
 #EXT-X-PLAYLIST-TYPE:m3u8
 #EXTINF:10.004811,
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/180
+https://z5ams.akamaized.net/andprivehd/index.m3u8?hdnts=st=1637865099~exp=1637868099~acl=/*~hmac=d29798b2962503393a05279dc335d37ecdf5451468651fae25f979b4897a90fe
