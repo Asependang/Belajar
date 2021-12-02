@@ -1,5 +1,5 @@
 #EXTM3U
-#EXT-X-VERSION:7
+#EXT-X-VERSION:3
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:BANDWIDTH=1344100,RESOLUTION=785x576
 http://172.105.83.39/play1.php?url=http://livezer0.hjkm.info:11991/juno/starmovies/playlist.m3u8&e=.m3u8
