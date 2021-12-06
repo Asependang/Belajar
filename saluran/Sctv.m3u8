@@ -1,0 +1,11 @@
+
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:316769
+#EXTINF:10.0,
+https://cdn13jtedge.useetv.com/dass/133/sctv_dash/media_w7715899232_b134470_sleng_3167 .ts
+#EXTINF:10.0,
+https://cdn13jtedge.useetv.com/dass/133/sctv_dash/media_w7715899232_b1344100_sleng_316771.ts
+#EXTINF:10.0,
+https://cdn13jtedge.useetv.com/dass/133/133/sctv_dash
