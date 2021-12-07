@@ -3,7 +3,3 @@
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-INDEPENDENT-SEGMENTS
 http://103.131.212.138:8000/play/a00v/index.m3u8
-#EXTINF:10.0,
-http://103.131.212.138:8000/play/a00v/index.m3u8
-#EXTINF:10.0,
-http://103.131.212.138:8000/play/a00v/index.m3u8
