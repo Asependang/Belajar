@@ -1,12 +1,10 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:10
+#EXT-X-TARGETDURATION:11.000
 #EXT-X-ALLOW-CACHE:YES
+#EXT-X-CLOSED-CAPTIONS:NONE
 #EXT-X-VERSION:3
 #EXT-X-MEDIA-SEQUENCE:266
 #EXT-X-DISCONTINUITY-SEQUENCE:0
 #EXTINF:10.0,
 http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/266.ts
-#EXTINF:10.0,
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/266.ts
-#EXTINF:10.0,
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/266.ts
+
