@@ -1,11 +1,8 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:10
+#EXT-X-TARGETDURATION:11.000
 #EXT-X-ALLOW-CACHE:YES
+#EXT-X-CLOSED-CAPTIONS:NONE
 #EXT-X-VERSION:3
 #EXT-X-MEDIA-SEQUENCE:66830
-#EXTINF:10.0,
-http://fortv.cc:8080/christina/christina/66830
-#EXTINF:10.0,
-http://fortv.cc:8080/christina/christina/66830
 #EXTINF:10.0,
 http://fortv.cc:8080/christina/christina/66830
