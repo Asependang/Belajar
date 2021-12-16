@@ -1,7 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:7
-#EXT-X-ALLOW-CACHE:YES
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audiod",NAME="audio",URI="https://visionplus-stream.visionplus.id/live/eds/TRANS7-transformer/sa_hls/TRANS7-transformer-avc1_499968=5.m3u8"
-#EXT-X-STREAM-INF:BANDWIDTH=499968,AVERAGE-BANDWIDTH=499968,CODECS="avc1.64001e,yuv420p",PROGRAM-ID=1,RESOLUTION=854x480,AUDIO="audiod"
-https://visionplus-stream.visionplus.id/live/eds/TRANS7-transformer/sa_hls/TRANS7-transformer-avc1_499968=4.m3u8
