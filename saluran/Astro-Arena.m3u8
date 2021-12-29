@@ -1,4 +1,5 @@
 #EXTM3U
-#EXT-X-VERSION:7
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:YES
 #EXT-X-INDEPENDENT-SEGMENTS
 https://x1.broiptv.com/play/godzillazila7@gmail.com/66488244/phIAh02i/norvegicus/astro_arena_norvegicus/playlist.m3u8
