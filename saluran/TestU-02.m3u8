@@ -5,4 +5,13 @@
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-MEDIA-SEQUENCE:110
 #EXTINF:10.0,
-https://bit.ly/U_sp02
+#EXTINF:10.0,
+http://zalogitv.tech:8080/live/5726642/6642/1718_111.ts
+#EXTINF:10.0,
+http://zalogitv.tech:8080/live/5726642/6642/1718_112.ts
+#EXTINF:10.0,
+http://zalogitv.tech:8080/live/5726642/6642/1718_113.ts
+#EXTINF:10.0,
+http://zalogitv.tech:8080/live/5726642/6642/1718_114.ts
+#EXTINF:10.0,
+http://zalogitv.tech:8080/live/5726642/6642/1718_115.ts
